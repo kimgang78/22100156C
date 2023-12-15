@@ -1,0 +1,15 @@
+D:\22100156김경현XR\22100156김경현XR\bin\Debug\net6.0\22100156김경현XR.exe
+D:\22100156김경현XR\22100156김경현XR\bin\Debug\net6.0\22100156김경현XR.deps.json
+D:\22100156김경현XR\22100156김경현XR\bin\Debug\net6.0\22100156김경현XR.runtimeconfig.json
+D:\22100156김경현XR\22100156김경현XR\bin\Debug\net6.0\22100156김경현XR.dll
+D:\22100156김경현XR\22100156김경현XR\bin\Debug\net6.0\22100156김경현XR.pdb
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\22100156김경현XR.csproj.AssemblyReference.cache
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\22100156김경현XR.GeneratedMSBuildEditorConfig.editorconfig
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\22100156김경현XR.AssemblyInfoInputs.cache
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\22100156김경현XR.AssemblyInfo.cs
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\22100156김경현XR.csproj.CoreCompileInputs.cache
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\22100156김경현XR.dll
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\refint\22100156김경현XR.dll
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\22100156김경현XR.pdb
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\22100156김경현XR.genruntimeconfig.cache
+D:\22100156김경현XR\22100156김경현XR\obj\Debug\net6.0\ref\22100156김경현XR.dll
